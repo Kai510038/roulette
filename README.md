@@ -2,6 +2,7 @@
 
 
 先選擇押的金額
+
 choose the amout of money youre in
 
 ![1](https://user-images.githubusercontent.com/79260866/186808617-ff407bb6-da3e-4c79-9281-0367aeaed033.png)
@@ -17,7 +18,8 @@ Choose the number you want to bet on
 
 or choose these
 
-![22](https://user-images.githubusercontent.com/79260866/186808662-d2a2f0e7-8051-45a8-b132-807f829a1e6d.png)
+![擷取](https://user-images.githubusercontent.com/79260866/186809423-79f368e5-b05b-46b1-9f4d-0d556f57c0cc.PNG)
+
 
 
 按下start旋轉滾輪出現數字
