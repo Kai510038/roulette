@@ -11,14 +11,16 @@ choose the amout of money youre in
 
 Choose the number you want to bet on
 
-![擷取](https://user-images.githubusercontent.com/79260866/186809110-b70a9531-23d5-4613-a36c-eb1c0c6415c2.PNG)
+![擷取](https://user-images.githubusercontent.com/79260866/186809423-79f368e5-b05b-46b1-9f4d-0d556f57c0cc.PNG)
+
 
 
 或是選擇這些
 
 or choose these
 
-![擷取](https://user-images.githubusercontent.com/79260866/186809423-79f368e5-b05b-46b1-9f4d-0d556f57c0cc.PNG)
+
+![22](https://user-images.githubusercontent.com/79260866/186809722-994132b7-9de9-4542-ad4d-2e40c95a5ee9.png)
 
 
 
